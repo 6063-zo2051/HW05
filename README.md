@@ -1,4 +1,3 @@
-# p5.js Template
 
 The goal of this assignment was to create a data visualization from a chosen dataset.
 ---
