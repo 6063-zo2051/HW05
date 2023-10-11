@@ -6,7 +6,7 @@ let timeMin;
 let timeMax;
 
 function preload() {
-  data = loadTable(“./deliverytime.csv”, "Delivery_person_Age", "Time_taken(min)");
+  data = loadTable("./deliverytime.csv", "csv", "header");
 }
 
 function setup() {
